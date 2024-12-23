@@ -1,15 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
 
+import './App.css'
+import Chatbubble from './components/Chatbubble'
+// import Chat from './components/chat'
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       
-      <h1 className='text-red-300'>Vite + React</h1>
+      <Chatbubble />
+      {/* <Chat /> */}
       
     </>
   )

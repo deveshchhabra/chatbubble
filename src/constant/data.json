@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "sender": "Oğuz Yağız Kara",
+      "preview": "I keep getting \"error while creating...",
+      "time": "5m",
+      "email": "john.doe@example.com",
+      "image":"https://as1.ftcdn.net/v2/jpg/08/93/42/72/1000_F_893427286_ZT0z5covrCthJJXZ7fWYjxb9HOn6c38V.jpg",
+      "seen": true
+    },
+    {
+      "id": 2,
+      "sender": "George Klein",
+      "email": "john.doe@example.com",
+      "preview": "Wow, this is really epic man!",
+      "time": "1h 54m",
+      "image":"https://t3.ftcdn.net/jpg/07/28/48/98/240_F_728489827_qtQHjlMEeD53QhTdUEtdOvNPQw21pYjh.jpg",
+      "seen": false
+    },
+    {
+      "id": 3,
+      "sender": "847-401-1944",
+      "email": "john.doe@example.com",
+      "preview": "Haha oh man, this is amazing!",
+      "time": "6h 21m",
+      "image":"https://t4.ftcdn.net/jpg/07/06/07/13/240_F_706071341_bgGRuaNsWftEGxD4ZyRwl1zlniy6AybX.jpg",
+      "seen": true
+    },
+    {
+      "id": 4,
+      "sender": "Erşad Başbağ",
+      "email": "john.doe@example.com",
+      "preview": "There will be changes to next...",
+      "time": "8h 2m",
+      "image":"https://as2.ftcdn.net/v2/jpg/08/92/41/17/1000_F_892411723_boIbyom6oeiX9IApjGywcE3kqvLtioPy.jpg",
+      "seen": false
+    }
+  ]
+  
