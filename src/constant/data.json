@@ -1,39 +1,72 @@
 [
-    {
-      "id": 1,
-      "sender": "Oğuz Yağız Kara",
-      "preview": "I keep getting \"error while creating...",
-      "time": "5m",
-      "email": "john.doe@example.com",
-      "image":"https://as1.ftcdn.net/v2/jpg/08/93/42/72/1000_F_893427286_ZT0z5covrCthJJXZ7fWYjxb9HOn6c38V.jpg",
-      "seen": true
-    },
-    {
-      "id": 2,
-      "sender": "George Klein",
-      "email": "john.doe@example.com",
-      "preview": "Wow, this is really epic man!",
-      "time": "1h 54m",
-      "image":"https://t3.ftcdn.net/jpg/07/28/48/98/240_F_728489827_qtQHjlMEeD53QhTdUEtdOvNPQw21pYjh.jpg",
-      "seen": false
-    },
-    {
-      "id": 3,
-      "sender": "847-401-1944",
-      "email": "john.doe@example.com",
-      "preview": "Haha oh man, this is amazing!",
-      "time": "6h 21m",
-      "image":"https://t4.ftcdn.net/jpg/07/06/07/13/240_F_706071341_bgGRuaNsWftEGxD4ZyRwl1zlniy6AybX.jpg",
-      "seen": true
-    },
-    {
-      "id": 4,
-      "sender": "Erşad Başbağ",
-      "email": "john.doe@example.com",
-      "preview": "There will be changes to next...",
-      "time": "8h 2m",
-      "image":"https://as2.ftcdn.net/v2/jpg/08/92/41/17/1000_F_892411723_boIbyom6oeiX9IApjGywcE3kqvLtioPy.jpg",
-      "seen": false
-    }
-  ]
-  
+  {
+    "id": 1,
+    "sender": "Oğuz Yağız Kara",
+    "email": "oguzyagizkara@gmail.com",
+    "image": "https://as1.ftcdn.net/v2/jpg/08/93/42/72/1000_F_893427286_ZT0z5covrCthJJXZ7fWYjxb9HOn6c38V.jpg",
+    "preview": "I keep getting \"error while creating...",
+    "time": "11:59 PM",
+    "location": "Ankara, Turkey",
+    "revenue": "$3,452",
+    "orders": 3,
+    "visits": 42,
+    "tags": ["Abandoned Cart User", "Popup", "Shop Error", "Successful"],
+    "seen": true
+  },
+  {
+    "id": 2,
+    "sender": "George Klein",
+    "email": "george.klein@example.com",
+    "image": "https://t3.ftcdn.net/jpg/07/28/48/98/240_F_728489827_qtQHjlMEeD53QhTdUEtdOvNPQw21pYjh.jpg",
+    "preview": "Wow, this is really epic man!",
+    "time": "1h 54m",
+    "location": "New York, USA",
+    "revenue": "$1,200",
+    "orders": 2,
+    "visits": 15,
+    "tags": ["Premium User", "Discount Buyer"],
+    "seen": false
+  },
+  {
+    "id": 3,
+    "sender": "Sophia Turner",
+    "email": "sophia.turner@example.com",
+    "image": "https://t4.ftcdn.net/jpg/07/06/07/13/240_F_706071341_bgGRuaNsWftEGxD4ZyRwl1zlniy6AybX.jpg",
+    "preview": "Can I get a refund for my order?",
+    "time": "3h 20m",
+    "location": "London, UK",
+    "revenue": "$320",
+    "orders": 1,
+    "visits": 8,
+    "tags": ["Refund Request", "Low Spending", "Customer Support"],
+    "seen": true
+  },
+  {
+    "id": 4,
+    "sender": "Lucas Martinez",
+    "email": "lucas.martinez@example.com",
+    "image": "https://as2.ftcdn.net/v2/jpg/08/92/41/17/1000_F_892411723_boIbyom6oeiX9IApjGywcE3kqvLtioPy.jpg",
+    "preview": "Order delivered but missing items.",
+    "time": "5h 10m",
+    "location": "Barcelona, Spain",
+    "revenue": "$890",
+    "orders": 5,
+    "visits": 22,
+    "tags": ["Order Issue", "High Spending", "Loyal Customer"],
+    "seen": false
+  },
+  {
+    "id": 5,
+    "sender": "Ava Johnson",
+    "email": "ava.johnson@example.com",
+    "image": "https://t4.ftcdn.net/jpg/07/48/30/37/240_F_748303705_90EF3DWpTEKOWKnENscdd8ypw7etwAwl.jpg",
+    "preview": "Thank you for resolving my issue!",
+    "time": "7h 45m",
+    "location": "Toronto, Canada",
+    "revenue": "$560",
+    "orders": 4,
+    "visits": 12,
+    "tags": ["Happy Customer", "Resolved Issue", "Frequent Buyer"],
+    "seen": true
+  }
+]
